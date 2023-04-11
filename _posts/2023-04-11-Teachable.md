@@ -1,7 +1,3 @@
----
-layout: post
-title:  "What is the Teachable Machine? How do we use it?"
----
 #Teachable Machine
 
 Teachable Machine is an exciting tool created by Google that enables anyone to train their own machine learning models without any prior coding experience. With Teachable Machine, you can build custom models that can recognize images, sounds, and poses, making it a powerful tool for a wide range of applications.
