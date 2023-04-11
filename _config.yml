@@ -107,7 +107,7 @@ author:
   name             : "Dohyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my kpop lab"
-  #location         : ""
+  location         : "somewhere"
   email            : leahchung99@gmail.com
   links:
     - label: "Email"
