@@ -4,7 +4,7 @@
 
 #main {
   @include clearfix;
-  margin-left: auto;
+  margin-left: 50px;
   margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
@@ -33,6 +33,7 @@ body {
 .initial-content,
 .search-content {
   flex: 1 0 auto;
+  margin-left: 10%;
 }
 
 .page {
@@ -50,7 +51,7 @@ body {
   .page__inner-wrap {
     float: left;
     margin-top: 1em;
-    margin-left: 0;
+    margin-left: 10%;
     margin-right: 0;
     width: 100%;
     clear: both;
@@ -91,6 +92,7 @@ body {
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+     padding-left: 20px;
   }
 
 	h1, h2, h3, h4, h5, h6 {
