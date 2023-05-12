@@ -18,7 +18,7 @@ locale                   : "en-US"
 title                    : "🧪 Kpop lab 🧪"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dohyun Chung"
+name                     : "cap"
 description              : "Tests - anything related to kpop"
 url                      : "https://captain1014.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,11 +107,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my kpop lab - any tests related to Kpop"
   location         : "somewhere"
-  email            : "leahchung99@gmail.com"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "leahchung99@email.com"
+       
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
